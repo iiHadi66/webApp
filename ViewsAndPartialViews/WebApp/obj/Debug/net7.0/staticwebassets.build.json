@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "IZPxuZMR2j9GxmeTNl+S1SU1mbLfScNUommxq9LIfSE=",
+  "Hash": "aaUHkUZRg5xj1Riu2mSFKfJAO51+cG9IULov/slxixg=",
   "Source": "WebApp",
   "BasePath": "_content/WebApp",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "WebApp\\wwwroot",
       "Source": "WebApp",
-      "ContentRoot": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "Pattern": "**"
     }
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "C:\\Users\\hadia\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.5\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\css\\style.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\css\\style.min.css",
+      "Identity": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\css\\style.min.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "css/style.min.css",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.min.css"
     },
     {
-      "Identity": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\favicon.ico",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\images\\logo.svg",
+      "Identity": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\images\\logo.svg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "images/logo.svg",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.svg"
     },
     {
-      "Identity": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\images\\placeholders\\120x113.svg",
+      "Identity": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\images\\placeholders\\120x113.svg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "images/placeholders/120x113.svg",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\images\\placeholders\\120x113.svg"
     },
     {
-      "Identity": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\images\\placeholders\\1920x300.svg",
+      "Identity": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\images\\placeholders\\1920x300.svg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "images/placeholders/1920x300.svg",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\images\\placeholders\\1920x300.svg"
     },
     {
-      "Identity": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\images\\placeholders\\200x122.svg",
+      "Identity": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\images\\placeholders\\200x122.svg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "images/placeholders/200x122.svg",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\images\\placeholders\\200x122.svg"
     },
     {
-      "Identity": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\images\\placeholders\\270x295.svg",
+      "Identity": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\images\\placeholders\\270x295.svg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "images/placeholders/270x295.svg",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\images\\placeholders\\270x295.svg"
     },
     {
-      "Identity": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\images\\placeholders\\369x310.svg",
+      "Identity": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\images\\placeholders\\369x310.svg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "images/placeholders/369x310.svg",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\images\\placeholders\\369x310.svg"
     },
     {
-      "Identity": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\images\\placeholders\\370x295.svg",
+      "Identity": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\images\\placeholders\\370x295.svg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "images/placeholders/370x295.svg",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\placeholders\\370x295.svg"
     },
     {
-      "Identity": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\images\\placeholders\\469x356.svg",
+      "Identity": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\images\\placeholders\\469x356.svg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "images/placeholders/469x356.svg",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\images\\placeholders\\469x356.svg"
     },
     {
-      "Identity": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\images\\placeholders\\501x430.svg",
+      "Identity": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\images\\placeholders\\501x430.svg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "images/placeholders/501x430.svg",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\images\\placeholders\\501x430.svg"
     },
     {
-      "Identity": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\images\\placeholders\\625x647.svg",
+      "Identity": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\images\\placeholders\\625x647.svg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "images/placeholders/625x647.svg",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\images\\placeholders\\625x647.svg"
     },
     {
-      "Identity": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\js\\site.js",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\components\\_base.scss",
+      "Identity": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\components\\_base.scss",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "scss/components/_base.scss",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\components\\_base.scss"
     },
     {
-      "Identity": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\components\\_bestcollection.scss",
+      "Identity": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\components\\_bestcollection.scss",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "scss/components/_bestcollection.scss",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\components\\_bestcollection.scss"
     },
     {
-      "Identity": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\components\\_breadcrumb.scss",
+      "Identity": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\components\\_breadcrumb.scss",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "scss/components/_breadcrumb.scss",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\components\\_breadcrumb.scss"
     },
     {
-      "Identity": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\components\\_buttons.scss",
+      "Identity": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\components\\_buttons.scss",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "scss/components/_buttons.scss",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\components\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\components\\_collectioncontent.scss",
+      "Identity": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\components\\_collectioncontent.scss",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "scss/components/_collectioncontent.scss",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\components\\_collectioncontent.scss"
     },
     {
-      "Identity": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\components\\_collectionItem.scss",
+      "Identity": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\components\\_collectionItem.scss",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "scss/components/_collectionItem.scss",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\components\\_collectionItem.scss"
     },
     {
-      "Identity": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\components\\_contactform.scss",
+      "Identity": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\components\\_contactform.scss",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "scss/components/_contactform.scss",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\components\\_contactform.scss"
     },
     {
-      "Identity": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\components\\_footer.scss",
+      "Identity": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\components\\_footer.scss",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "scss/components/_footer.scss",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\components\\_footer.scss"
     },
     {
-      "Identity": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\components\\_forms.scss",
+      "Identity": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\components\\_forms.scss",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "scss/components/_forms.scss",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\components\\_forms.scss"
     },
     {
-      "Identity": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\components\\_header.scss",
+      "Identity": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\components\\_header.scss",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "scss/components/_header.scss",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\components\\_header.scss"
     },
     {
-      "Identity": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\components\\_loginform.scss",
+      "Identity": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\components\\_loginform.scss",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "scss/components/_loginform.scss",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\components\\_loginform.scss"
     },
     {
-      "Identity": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\components\\_map.scss",
+      "Identity": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\components\\_map.scss",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "scss/components/_map.scss",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\components\\_map.scss"
     },
     {
-      "Identity": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\components\\_newsletter.scss",
+      "Identity": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\components\\_newsletter.scss",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "scss/components/_newsletter.scss",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\components\\_newsletter.scss"
     },
     {
-      "Identity": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\components\\_regform.scss",
+      "Identity": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\components\\_regform.scss",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "scss/components/_regform.scss",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\components\\_regform.scss"
     },
     {
-      "Identity": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\components\\_showcase.scss",
+      "Identity": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\components\\_showcase.scss",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "scss/components/_showcase.scss",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\components\\_showcase.scss"
     },
     {
-      "Identity": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\components\\_topselling.scss",
+      "Identity": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\components\\_topselling.scss",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "scss/components/_topselling.scss",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\components\\_topselling.scss"
     },
     {
-      "Identity": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\components\\_uptosell.scss",
+      "Identity": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\components\\_uptosell.scss",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "scss/components/_uptosell.scss",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\components\\_uptosell.scss"
     },
     {
-      "Identity": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\core\\_colors.scss",
+      "Identity": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\core\\_colors.scss",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "scss/core/_colors.scss",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\core\\_colors.scss"
     },
     {
-      "Identity": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\core\\_fonts.scss",
+      "Identity": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\core\\_fonts.scss",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "scss/core/_fonts.scss",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\core\\_fonts.scss"
     },
     {
-      "Identity": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\core\\_mixins.scss",
+      "Identity": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\core\\_mixins.scss",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "scss/core/_mixins.scss",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\core\\_mixins.scss"
     },
     {
-      "Identity": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\style.css",
+      "Identity": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\style.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "scss/style.css",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\style.css"
     },
     {
-      "Identity": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\style.min.css",
+      "Identity": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\style.min.css",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "scss/style.min.css",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\style.min.css"
     },
     {
-      "Identity": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\style.scss",
+      "Identity": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\scss\\style.scss",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hadia\\Desktop\\lektion-3 - kopia (2)\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\hadia\\source\\repos\\webApp\\ViewsAndPartialViews\\WebApp\\wwwroot\\",
       "BasePath": "_content/WebApp",
       "RelativePath": "scss/style.scss",
       "AssetKind": "All",

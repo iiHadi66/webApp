@@ -13,7 +13,7 @@ namespace WebApp.Migrations
 {
     [DbContext(typeof(IdentityContext))]
     [Migration("20230506230009_identity")]
-    partial class identity
+    partial class Identity
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

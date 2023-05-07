@@ -6,9 +6,9 @@ namespace WebApp.Controllers;
 
 public class RegistrationController : Controller
 {
-    private readonly AuthService _auth;
+    private readonly AuthServive _auth;
 
-    public RegistrationController(AuthService auth)
+    public RegistrationController(AuthServive auth)
     {
         _auth = auth;
     }

@@ -5,13 +5,13 @@ using WebApp.Models.ViewModels;
 
 namespace WebApp.Models.Services;
 
-public class AuthService
+public class AuthServive
 {
 
     private readonly UserManager<IdentityUser> _userManager;
     private readonly IdentityContext _identityContext;
 
-    public AuthService(UserManager<IdentityUser> userManager, IdentityContext identityContext)
+    public AuthServive(UserManager<IdentityUser> userManager, IdentityContext identityContext)
     {
         _userManager = userManager;
         _identityContext = identityContext;
