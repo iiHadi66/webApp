@@ -1,0 +1,34 @@
+﻿@model UserLoginViewModel
+<section class="login-form">
+    <div class="container">
+        <div class="title">Plase Login To Your Account</div>
+
+        <form method="post" novalidate >
+
+
+            <div asp-validation-summary="ModelOnly" class="form-group error message alert alert-danger" role="alert"></div>
+            
+            <div class="email form-group">
+                <label asp-for="Email">E-mail*</label>
+                <a id="reg-link" asp-controller="registration" asp-action="index">Don't have an Account yet?</a>
+                <input asp-for="Email" />
+                <span asp-validation-for="Email" class="error"> </span>
+            </div>
+            <div class="password form-group">
+                <label asp-for="Password">Password*</label>
+                <a id="forgot-pass-link" href="#"> Forgot Your Password?</a>
+                <input asp-for ="Password" />
+                <span asp-validation-for="Password" class="error"> </span>
+            </div>
+
+            <div class="rememberme form-checkbox-group">
+                <label class="custom-checkbox">
+                    <label asp-for="RememberMe"></label>
+                    <input asp-for="RememberMe" />
+                    <span class="checkmark"></span>
+                </label>
+            </div>
+            <button class="btn-theme">Submit</button>
+        </form>
+    </div>
+</section>
