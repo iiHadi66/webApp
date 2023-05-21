@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ViewsAndPartialViews",
+    "\\ViewsAndPartialViews\\WebApp",
+    "\\ViewsAndPartialViews\\WebApp\\Migrations"
   ],
-  "SelectedNode": "\\ViewsAndPartialViews.sln",
+  "SelectedNode": "\\ViewsAndPartialViews\\WebApp\\Migrations\\IdentityContextModelSnapshot.cs",
   "PreviewInSolutionExplorer": false
 }
