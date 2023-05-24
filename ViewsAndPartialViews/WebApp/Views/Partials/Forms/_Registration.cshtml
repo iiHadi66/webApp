@@ -57,7 +57,13 @@
                 <label asp-for="ImageFile"> </label>
                 <input asp-for="ImageFile" />
             </div>
-
+            <div class="terms form-checkbox-group">
+                <label class="custom-checkbox">
+                    <label asp-for="TermsAndConditions"></label>
+                    <input asp-for="TermsAndConditions">
+                    <span class="checkmark"></span>
+                </label>
+            </div>
             <button class="btn-theme">Submit</button>
         </form>
     </div>

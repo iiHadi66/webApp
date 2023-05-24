@@ -52,6 +52,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;700;900&display=swap");
 html, body {
   font-size: 16px;
   font-family: "Roboto", sans-serif;
@@ -670,6 +673,14 @@ footer .container {
   content: "/";
   margin-right: 5px;
 }
+.best-collection h3 {
+  text-align: center;
+  padding-top: 25px;
+}
+.best-collection h2 {
+  text-align: center;
+  padding-top: 65px;
+}
 .best-collection .collection-grid {
   margin-top: 40px;
   display: grid;
@@ -1136,4 +1147,218 @@ footer .container {
     display: flex;
     justify-self: flex-start;
   }
+}
+
+.breadcrumb-product {
+  height: 200px;
+  background-color: #E1E1E1;
+  margin-bottom: 40px;
+}
+@media (min-width: 768px) {
+  .breadcrumb-product {
+    height: 300px;
+  }
+}
+.breadcrumb-product .container {
+  padding-top: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+@media (min-width: 768px) {
+  .breadcrumb-product .container {
+    padding-top: 160px;
+  }
+}
+.breadcrumb-product h1 {
+  font-size: 30px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  color: #292929;
+  text-align: center;
+}
+.breadcrumb-product ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: "Poppins", sans-serif;
+}
+.breadcrumb-product ul li {
+  padding: 0;
+  margin: 0 10px 0 0;
+}
+
+@media (min-width: 768px) {
+  .product-detials .container {
+    display: flex;
+  }
+}
+@media (min-width: 768px) {
+  .product-detials .container .image-grid {
+    margin-right: 90px;
+    margin-bottom: 100px;
+    display: grid;
+    grid-template-areas: "image1 image1 image1 image1 " "image2 image3 image4 image5";
+    gap: 10px;
+  }
+  .product-detials .container .image-grid .image1 {
+    grid-area: image1;
+  }
+  .product-detials .container .image-grid .image2 {
+    grid-area: image2;
+  }
+  .product-detials .container .image-grid .image3 {
+    grid-area: image3;
+  }
+  .product-detials .container .image-grid .image4 {
+    grid-area: image4;
+  }
+  .product-detials .container .image-grid .image5 {
+    grid-area: image5;
+  }
+}
+.product-detials .container .image-grid .image1 {
+  width: 100%;
+  height: auto;
+}
+.product-detials .container .image-grid .image2 {
+  visibility: hidden;
+}
+@media (min-width: 768px) {
+  .product-detials .container .image-grid .image2 {
+    visibility: visible;
+  }
+}
+.product-detials .container .image-grid .image3 {
+  visibility: hidden;
+}
+@media (min-width: 768px) {
+  .product-detials .container .image-grid .image3 {
+    visibility: visible;
+  }
+}
+.product-detials .container .image-grid .image4 {
+  visibility: hidden;
+}
+@media (min-width: 768px) {
+  .product-detials .container .image-grid .image4 {
+    visibility: visible;
+  }
+}
+.product-detials .container .image-grid .image5 {
+  visibility: hidden;
+}
+@media (min-width: 768px) {
+  .product-detials .container .image-grid .image5 {
+    visibility: visible;
+  }
+}
+.product-detials .container .detials {
+  margin-top: -215px;
+}
+@media (min-width: 768px) {
+  .product-detials .container .detials {
+    margin-top: 0;
+  }
+}
+.product-detials .container .detials .title {
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  color: #292929;
+}
+@media (min-width: 768px) {
+  .product-detials .container .detials .title {
+    font-weight: 500;
+  }
+}
+.product-detials .container .detials p {
+  padding-top: 5px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  color: #000000;
+}
+@media (min-width: 768px) {
+  .product-detials .container .detials p {
+    font-weight: 300;
+  }
+}
+.product-detials .container .detials .checked {
+  color: orange;
+}
+.product-detials .container .detials .reviews {
+  display: inline;
+  margin-left: 10px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+}
+.product-detials .container .detials .info {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 3px 0 3px;
+  margin-bottom: -550px;
+}
+@media (min-width: 768px) {
+  .product-detials .container .detials .info {
+    margin-bottom: 0;
+  }
+}
+.product-detials .container .detials .info .price {
+  font-size: 17px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  color: #202020;
+}
+.product-detials .container .detials .info .add-cart {
+  visibility: visible;
+  font-size: 24px;
+  color: #000000;
+}
+@media (min-width: 768px) {
+  .product-detials .container .detials .info .add-cart {
+    visibility: hidden;
+  }
+}
+.product-detials .container .detials .btn-cart {
+  visibility: hidden;
+}
+@media (min-width: 768px) {
+  .product-detials .container .detials .btn-cart {
+    border: 1px solid #FA3150;
+    background-color: #FA3150;
+    font-family: "Poppins", sans-serif;
+    color: #FFFFFF;
+    padding: 10px 35px;
+    margin-top: -25px;
+    visibility: visible;
+    transition: all 0.25s ease-in-out;
+    float: right;
+  }
+}
+.product-detials .container .detials .btn-cart .add-cart {
+  margin-left: 10px;
+}
+.product-detials .container .detials .description {
+  visibility: hidden;
+}
+@media (min-width: 768px) {
+  .product-detials .container .detials .description {
+    margin-top: 90px;
+    visibility: visible;
+  }
+}
+.product-detials .container .detials .description h4 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  color: #292929;
+}
+.product-detials .container .detials .description p {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  color: #000000;
 }

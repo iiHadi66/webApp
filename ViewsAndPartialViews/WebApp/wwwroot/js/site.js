@@ -28,6 +28,5 @@ try {
     })
 } catch { }
 
-
-
-        
+const foter = document.querySelector('footer')
+console.log(foter)

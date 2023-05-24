@@ -15,7 +15,7 @@
             font-size: 48px;
         }
     }
-    
+
     .categories {
         display: none;
         justify-content: center;
@@ -37,6 +37,16 @@
         }
     }
 
+    h3 {
+        text-align: center;
+        padding-top: 25px;
+    }
+
+    h2 {
+        text-align: center;
+        padding-top: 65px;
+    }
+
     .collection-grid {
         margin-top: 40px;
         display: grid;
@@ -46,13 +56,14 @@
         @include md {
             grid-template-columns: repeat(2, 1fr);
         }
+
         @include lg {
             grid-template-columns: repeat(3, 1fr);
         }
+
         @include xl {
             grid-template-columns: repeat(4, 1fr);
         }
-
     }
 
     .load-more {

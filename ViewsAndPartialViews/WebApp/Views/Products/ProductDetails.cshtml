@@ -1,0 +1,50 @@
+﻿@model ProductEntity
+<section class="breadcrumb-product">
+    <div class="container">
+        <div class="content">
+            <h1>SHOP</h1>
+            <ul>
+                <li>HOME.</li>
+                <li>PRODUCT DETAILS</li>
+            </ul>
+        </div>
+    </div>
+</section>
+
+
+<section class="product-detials">
+    <div class="container">
+        <div class="image-grid">
+            <img class="image1" src="/images/placeholders/501x430.svg" alt="">
+            <img class="image2" src="/images/placeholders/120x113.svg" alt="">
+            <img class="image3" src="/images/placeholders/120x113.svg" alt="">
+            <img class="image4" src="/images/placeholders/120x113.svg" alt="">
+            <img class="image5" src="/images/placeholders/120x113.svg" alt="">
+        </div>
+        <div class="detials">
+            <div class="body">
+                <div class="title">@Model.ProductName</div>
+                <p>@Model.Ingress</p>
+                <span class="fa fa-star checked"></span>
+                <span class="fa fa-star checked"></span>
+                <span class="fa fa-star checked"></span>
+                <span class="fa fa-star"></span>
+                <span class="fa fa-star"></span>
+                <p class="reviews">16 Reviews</p>
+                <div class="info">
+                    <div class="price">@Model.Price $</div>
+                    <i class="add-cart fa-regular fa-cart-plus"></i>
+                </div>
+                <button class="btn-cart">
+                    Add To Cart  <i class="add-cart fa-regular fa-cart-plus"></i>
+                </button>
+                <div class="description">
+                    <h4>Description</h4>
+                    <p> @Model.Description</p>
+                </div>
+            </div>
+        </div>
+    </div>
+   
+
+</section>
