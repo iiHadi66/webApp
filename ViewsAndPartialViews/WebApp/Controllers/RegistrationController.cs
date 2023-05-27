@@ -1,18 +1,19 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using WebApp.Models.Services;
+using WebApp.Helpers.Services;
 using WebApp.Models.ViewModels;
 
 namespace WebApp.Controllers;
 
 public class RegistrationController : Controller
 {
-    private readonly AuthServive _auth;
+    private readonly AuthService _authService;
 
-    public RegistrationController(AuthServive auth)
+    public RegistrationController(AuthService authService)
     {
-        _auth = auth;
+        _authService = authService;
     }
 
+    [HttpGet]
     public IActionResult Index()
     {
         ViewData["Title"] = "Registration";
@@ -20,17 +21,19 @@ public class RegistrationController : Controller
     }
 
     [HttpPost]
-    public async Task <IActionResult> Index(UserRegisterViewModel model)
+    public async Task<IActionResult> Index(UserRegisterViewModel model)
     {
         if (ModelState.IsValid)
         {
-            if (await _auth.RegAsync(model))
+            if (await _authService.UserAldredyExistsAsync(model))
+                ModelState.AddModelError("", "This email appear to be registred already..");
 
-            return RedirectToAction("Index", "Login");
+            if (await _authService.RegisterUserAsync(model))
+                return RedirectToAction("Index", "Login");
 
-            ModelState.AddModelError("", "A user with the same email already exists");
+
+
         }
-
         return View(model);
     }
 }

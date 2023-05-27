@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using System.ComponentModel.DataAnnotations;
 using WebApp.Models.Entities;
-
+using WebApp.Models.Identity;
 
 namespace WebApp.Models.ViewModels
 {
@@ -37,13 +37,13 @@ namespace WebApp.Models.ViewModels
         [Display(Name = "E-mail *")]
         [DataType(DataType.EmailAddress)]
         [Required(ErrorMessage = "Your must provide an e-mail address")]
-       
+
         public string Email { get; set; } = null!;
 
         [Display(Name = "Password *")]
         [DataType(DataType.Password)]
         [Required(ErrorMessage = "Your must provide a password")]
-        
+
         public string Password { get; set; } = null!;
 
         [Display(Name = "Confirm Password *")]
@@ -62,25 +62,25 @@ namespace WebApp.Models.ViewModels
 
 
 
-        public static implicit operator IdentityUser(UserRegisterViewModel model)
+        public static implicit operator AppUser(UserRegisterViewModel model)
         {
-            return new IdentityUser
+
+            return new AppUser
             {
                 UserName = model.Email,
+                FirstName = model.FristName,
+                LastName = model.LastName,
                 Email = model.Email,
-                PhoneNumber = model.Mobile,
             };
         }
 
-        public static implicit operator UserProfileEntity(UserRegisterViewModel model)
+        public static implicit operator AddressEntity(UserRegisterViewModel model)
         {
-            return new UserProfileEntity
+            return new AddressEntity
             {
-              FirstName = model.FristName,
-              LastName = model.LastName,
-              StreetName = model.StreetName,
-              PostalCode = model.PostalCode,
-              City = model.City,
+                StreetName = model.StreetName,
+                PostalCode = model.PostalCode,
+                City = model.City,
             };
         }
 

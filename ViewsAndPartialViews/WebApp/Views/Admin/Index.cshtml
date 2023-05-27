@@ -1,0 +1,31 @@
+﻿<div class="admin-panel">
+    <h1>Welcome to backoffice system</h1>
+    <div class="accounts">
+
+        <div class="admins">
+            <h1>Admin account</h1>
+            @if (User.IsInRole("admin"))
+            {
+                <p>@User.Identity.Name</p>
+
+            }
+        </div>
+
+        <div class="users">
+            <h1>User accounts</h1>
+            @foreach (var item in Model)
+            {
+                <div class="profile">
+                    <p>
+                        @item.FirstName
+                        @item.LastName
+                    </p>
+
+                    <p>
+                        @item.UserName
+                    </p>
+                </div>
+            }
+        </div>
+    </div>
+</div>
